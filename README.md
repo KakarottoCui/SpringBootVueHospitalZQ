@@ -17,6 +17,8 @@
 
 用到的技术：
 
-后台 java语言的SpringBoot框架 MySql5.7或8数据库 Maven依赖管理；
+后端 java语言的SpringBoot框架，MySql5.7或8数据库，Maven依赖管理；
 
-前台 Vue.js语法，html页面
+前端 Vue.js语法，html页面
+
+node.js的后端版本链接：https://github.com/KakarottoCui/NodeVueHospitalZQ
